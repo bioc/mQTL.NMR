@@ -1,7 +1,7 @@
 Package: mQTL.NMR
 Type: Package
 Title: Metabolomic Quantitative Trait Locus Mapping for 1H NMR data 
-Version: 1.15.0
+Version: 1.15.1
 Date: 2015-04-09
 Author: Lyamine Hedjazi and Jean-Baptiste Cazier 
 Maintainer: Lyamine Hedjazi <mqtl@ican-institute.org>
@@ -15,3 +15,4 @@ biocViews: Cheminformatics, Metabolomics, Genetics, SNP
 Depends: R (>= 2.15.0)
 Imports: qtl, GenABEL, MASS, outliers, graphics, stats, utils
 Suggests: BiocStyle
+PackageStatus: Deprecated
